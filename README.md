@@ -42,14 +42,14 @@ To do this, follow the steps below by running the given commands within a Git ba
  2. Clone the *forked* repo to your local machine.
 
  ```bash
- git clone https://github.com/{your-account-name}/classification-predict-streamlit-template.git
+ git clone https://github.com/{github username}/Property-rental-Price-estimation.git
  ```  
 
  3. Navigate to the base of the cloned repo, and start the Streamlit app.
 
  ```bash
  cd classification-predict-streamlit-template/
- streamlit run base_app.py
+ streamlit run property_rental_app.py
  ```
 
  If the web server was able to initialise successfully, the following message should be displayed within your bash/terminal session:
